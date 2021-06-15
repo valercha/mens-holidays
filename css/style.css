@@ -605,6 +605,9 @@ h3 {
   border-color: #f2f2f2;
   border-radius: 30px;
   background-color: transparent;
+  transition-property: background-color;
+  transition-duration: 400ms;
+  transition-timing-function: ease;
   color: #fff;
   font-size: 18px;
   line-height: 1;
@@ -684,6 +687,9 @@ h3 {
   border-color: #f2f2f2;
   border-radius: 30px;
   background-color: transparent;
+  transition-property: background-color;
+  transition-duration: 400ms;
+  transition-timing-function: ease;
   color: #fff;
   font-size: 18px;
   line-height: 1;
